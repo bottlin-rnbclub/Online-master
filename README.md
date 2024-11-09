@@ -2,6 +2,7 @@
 
 Client and server to play the strategy board game **Quoridor**. It uses [pygame](https://www.pygame.org/news).
 
+![aa](https://github.com/bottlin-rnbclub/Online-master/blob/main/img/capture.png)
 
 ## Install
 Requires: Python >=3.6.
